@@ -1,0 +1,7 @@
+port: 8800
+db:
+  host: "localhost"
+  port: "5432"
+  username: "go_user"
+  dbname: "go_rest"
+  sslmode: "disable"
